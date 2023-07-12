@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+  }
+  
+  #taskInput {
+    width: 300px;
+    margin-right: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  li {
+    list-style-type: none;
+    margin-bottom: 5px;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  }
+  
